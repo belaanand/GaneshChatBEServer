@@ -10,6 +10,6 @@ public interface Constants {
 	String REG_ID = "regId";
 	String MSG = "msg";
 	String TO = "email2";
-	//Added by bel
+	//Added by bel-apps
 	
 }
